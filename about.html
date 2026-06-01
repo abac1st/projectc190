@@ -13,7 +13,7 @@
         }
         body {
             background-color: #0A0A0A;
-            color: #8fa045;
+            color: #97a84b;
             font-family: 'Mx437 IBM VGA 9x16';
         }
         .clickable {
@@ -31,14 +31,32 @@
             vertical-align: middle;
             width: 370px;
         }
+        #hue {
+            filter: hue-rotate(115deg) brightness(89%);
+        }
+        #hue:hover {
+            filter: hue-rotate(115deg) brightness(100%);
+        }
+        #diffbright {
+            filter: brightness(92%);
+        }
+        #diffbright2 {
+            filter: brightness(87%);
+        }
+        #diffbright3 {
+            filter: brightness(92%);
+        }
+        #diffbright:hover, #diffbright2:hover, #diffbright3:hover {
+            filter: brightness(100%);
+        }
         .item {
-            filter: brightness(80%);
+            filter: brightness(88%);
         }
         .item:hover {
             filter: brightness(100%);
         }
         .button {
-            filter: brightness(85%);
+            filter: brightness(87%);
         }
         .button:hover {
             filter: brightness(100%);
@@ -54,6 +72,13 @@
             animation-name: stampDark;
             animation-iteration-count: infinite;
             animation-duration: 1s;
+            filter: brightness(93%);
+        }
+        #stampDark:hover {
+            animation-name: stampDark;
+            animation-iteration-count: infinite;
+            animation-duration: 1s;
+            filter: brightness(100%);
         }
         @keyframes stampLight {
             0% {content: url("/images/frames/stamp1_l.png");}
@@ -85,35 +110,50 @@
 </head>
 
 <body>
+<!--damn my site source code sucks-->
 <div id="material">
     <span style="font-size:24px;">about the webmaster</span>
     <br><br>
     <div id="abody">
     ♀ / 20s
     <br>
-    My name's Hui (pronounced "hway"), and I'm a computer science student and hobbyist artist. I also like reading, <a href="https://en.wikipedia.org/wiki/Low-level_programming_language" target="_blank" class="clickable">low-level programming</a>, mahjong, <a href="/other-assets/Mathematician's Lament.pdf" target="_blank" class="clickable">mathematics</a>, computer history, and far too many other things...
-    <br>I intend for this website to be slow and thoughtful, so updates are sporadic.
+    My name's Hui (pronounced "hway"), and I'm a computer science student, (undergraduate) research assistant, and hobbyist artist. I also like reading, <a href="https://en.wikipedia.org/wiki/Low-level_programming_language" target="_blank" class="clickable">low-level programming</a>, <a href="/other-assets/Mathematician's Lament.pdf" target="_blank" class="clickable">mathematics</a>, mahjong, and far too many other things...
+    <br><br>
+    This website is dedicated to my interests, and I view it much like the webmaster of <a href="https://www.wendycarlos.com/live.html" target="_blank" class="clickable">www.wendycarlos.com</a>.
+    I try to update thoughtfully and at my own pace.
+    <br><br>
+    <a href="/about/graphics-hoard.html">
+    <img src="/images/web-stuff/tsukumizu.png" id="diffbright3">
+    <img src="/images/web-stuff/compnerd.gif" id="diffbright2">
+    <img src="/images/web-stuff/kitysketch.gif" class="item">
+    <img src="/images/web-stuff/i_think_intensely.jpg" class="item">
     <br>
-    <span title="Crayons and colored pencils"><img src="/images/drawing_supps.png" class="item" width="104px" style="margin-right:5px;"></span><span title="Chicken plush"><img src="/images/piyo.png" style="margin-right:5px;margin-top:5px;" class="item" width="99px"></span><span title="Pencil and eraser"><img src="/images/pencil_eraser.png" class="item" width="48px" style="margin-right:5px;"></span><span title="Sketchbook and laptop"><img src="/images/sketch_comp.png" class="item" width="122px" style="margin-right:2px;margin-top:5px;"></span><span title="Abacus"><img src="/images/abacus.png" class="item" width="82px" style="margin-right:5px;margin-top:15px;"></span>
+    <img src="/images/web-stuff/curious.gif" id="hue" width="150px" height="20px" >
+    <img src="/images/web-stuff/stress.gif" class="item" width="150px" height="20px">
+    <img src="/images/web-stuff/used_books.gif" id="diffbright" width="150px" height="20px">
+    </a>
+    <!--<span title="Crayons and colored pencils"><img src="/images/drawing_supps.png" class="item" width="104px" style="margin-right:5px;"></span><span title="Chicken plush"><img src="/images/piyo.png" style="margin-right:5px;margin-top:5px;" class="item" width="99px"></span><span title="Pencil and eraser"><img src="/images/pencil_eraser.png" class="item" width="48px" style="margin-right:5px;"></span><span title="Sketchbook and laptop"><img src="/images/sketch_comp.png" class="item" width="122px" style="margin-right:2px;margin-top:5px;"></span><span title="Abacus"><img src="/images/abacus.png" class="item" width="82px" style="margin-right:5px;margin-top:15px;"></span>-->
     <br><br>
     <details>
         <summary>
         <span class="smry">Favorites</span>
         </summary>
         <div class="dtls">
-        Music: <a href="/about/nin.html" class="clickable">Nine Inch Nails</a>, KMFDM, Femtanyl, Infected Mushroom, Master Boot Record, Molchat Doma, Black Kirin
+        Music: <a href="/about/nin-songs.html" class="clickable">Nine Inch Nails</a>, KMFDM, Femtanyl, Machine Girl, Master Boot Record, Molchat Doma, Black Kirin
         <br><br>
-        Video games: Stardew Valley, programming games (e.g., Brainfuck Challenge and SIC-1), VA-11 Hall-A, Neko Atsume
+        Video games: Stardew Valley, Fields of Mistria, programming games, VA-11 Hall-A, Neko Atsume, Meow Tower
         <br><br>
-        Movies & TV: Better Call Saul, Serial Experiments Lain, Madoka Magica (especially Rebellion), Saiki K.
+        Movies & TV: Better Call Saul, Breaking Bad, Serial Experiments Lain, Madoka Magica, Madoka Magica Rebellion
         <br><br>
         Foods: Fuqi feipian, mouthwatering chicken, Xinjiang lamb skewers, poke, luosong soup, tikka masala, eggs Benedict
         <br><br>
-        Drinks: Kombucha, unsweetened oolong tea, Mexican Coca-Cola, root beer 
+        Drinks: Kombucha, hard kombucha, unsweetened tea, unsweetened coffee
         <br><br>
         Animals: Cats, pigeons, chickens, barn owls, sharks, crows, bats, dinosaurs
         <br><br>
-        See <a href="/reading.html" class="clickable">here</a> for books.
+        Hobbies not mentioned: Sleeping, laying down, target shooting, sports, fishing, wandering around outside
+        <br><br>
+        Read <a href="/reading.html" class="clickable">this page</a> for books.
         </div>
     </details>
     <details>
@@ -153,13 +193,14 @@
         </summary>
 
         <div class="dtls">
-        At age 9, I started messing around on kids' programming website Scratch, publishing my work under the username C<span style="color:#7d8d48;background:#7d8d48;">█████</span>190. Before I knew it, I went from making Warrior Cats RPGs in blocks to dabbling in stuff like assembly language, and now I'm studying computer science in university. This website is named "Project C190" as a tribute to how my time on Scratch has shaped my interests. Also, fun fact, some of the graphics are drawn in Scratch with a mouse just as I would have done as a kid.
+        At age 9, I started messing around on kids' programming website Scratch, publishing my work under the username C<span style="color:#7d8d48;background:#7d8d48;">█████</span>190. Before I knew it, I went from making Warrior Cats RPGs in blocks to dabbling in stuff like assembly language, and now I'm studying computer science in university. This website is named "Project C190" as a tribute to how my time on Scratch has shaped my interests.
+        <!--Also, fun fact, some of the graphics are drawn in Scratch with a mouse just as I would have done as a kid.-->
         </div>
     </details>
     <br>
     Here are my site buttons. Click to open in a new tab, and please do not <a href="https://simple.wikipedia.org/wiki/Hotlinking" target="_blank" class="clickable">hotlink</a>.
     <br>
-    <a href="/images/do_not_hotlink/floppy1.gif" target="_blank"><img src="/images/frames/stamp1_d.png" id="stampDark" class="button" width="88px" height="31px"></a> <a href="/images/do_not_hotlink/floppy2.gif" target="_blank"><img src="/images/frames/stamp1_l.png" id="stampLight" class="button" width="88px" height="31px"></a> <a href="/images/do_not_hotlink/pixelcat.gif" target="_blank"><img src="/images/huicat_pixel.gif" class="button"></a>
+    <a href="/images/do_not_hotlink/floppy1.gif" target="_blank"><img src="/images/frames/stamp1_d.png" id="stampDark" width="88px" height="31px"></a> <a href="/images/do_not_hotlink/floppy2.gif" target="_blank"><img src="/images/frames/stamp1_l.png" id="stampLight" class="button" width="88px" height="31px"></a> <a href="/images/do_not_hotlink/pixelcat.gif" target="_blank"><img src="/images/huicat_pixel.gif" class="button"></a>
     </div>
     <br>
     <a href="/" class="clickable">Return</a>

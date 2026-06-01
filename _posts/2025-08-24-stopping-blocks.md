@@ -1,8 +1,7 @@
 ---
-layout: project-post
+layout: post
 title: Stopping blocks, clearing rows, and ending the game
-categories: projects
-permalink: /projects/mips-tetris/stopping-blocks
+permalink: /articles/mips-tetris/stopping-blocks
 ---
 <style>
     .emote {
@@ -15,7 +14,7 @@ permalink: /projects/mips-tetris/stopping-blocks
 <br><a href="#3">Ending the Game</a>
 <br><a href="#4">Residual Quirks</a>
 <br><a href="#5">Project Trivia</a>
-<br>The program code as of this point can be found <a href="https://github.com/wangzi190/mips_tetris/blob/main/tetris_v3%20NOW%20FUNCTIONAL!!.asm" target="_blank">here</a>.
+<br>The program code as of this point can be found <a href="https://github.com/abac1st/mips_tetris/blob/main/tetris_v3%20NOW%20FUNCTIONAL!!.asm" target="_blank">here</a>.
 <hr>
 As I mentioned last time, I need my program to be able to resolve the following 3 questions:
 <br>1) When should blocks stop falling?

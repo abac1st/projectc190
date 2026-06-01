@@ -1,5 +1,7 @@
 ---
-layout: main/layout
+layout: undated-post
+title: "Visiting the Computer History Museum"
+permalink: /articles/visiting-chm
 ---
 <style>
     .photos {
@@ -16,33 +18,33 @@ I definitely have a newfound appreciation for the quality of the resources I've 
 I wish I'd gotten to spend more time in the later exhibits, particularly Computers & Creativity, though, because I ended up missing a couple things I'd been looking forward to seeing. I might just be a nerd, but 2 hours (my family was getting bored...) was not remotely enough time to look through 20 exhibits. That's only 6 minutes per exhibit! So, I'm hoping to visit again one day.
 <br><br>
 Anyways, in the order of how I viewed them in the museum, here are some of my favorite machines and other artifacts:
-<hr>
+<br><br>
 IBM 1401 Demo Room
 <br><img src="/images/for-posts/chm/ibm_1401.png" class="photos">
 <br>I didn't get to see this machine in action, but it was still pretty awesome to just look at it. If you want to visit the CHM, please have more foresight than me and plan your visit when demos are running :')
-<hr>
+<br><br>
 Army-grade Enigma machine and Colossus tape pulley
 <br><img src="/images/for-posts/chm/enigma_machine.png" class="photos">
 <br>You can tell that this one is army-grade because commercial Enigma machines did not have a plugboard (the pane on the front with the holes and cords).
-<hr>
+<br><br>
 Working reconstruction of the Atanasoff-Berry computer
 <br><img src="/images/for-posts/chm/abcomp.png" class="photos">
 <br>It looks just like the last known photo of the original computer before it was dismantled.
-<hr>
+<br><br>
 Atlas logic module
 <br><img src="/images/for-posts/chm/atlas_module.png" class="photos">
 <br>The label says all that I have to say. The Atlas was definitely one of my favorite computers to learn about.
-<hr>
+<br><br>
 1981 IBM PC
 <br><img src="/images/for-posts/chm/ibm_pc.png" class="photos">
 <br>This one is so iconic I can't leave it out.
-<hr>
+<br><br>
 Altair 8800
 <br><img src="/images/for-posts/chm/altair_8800.png" class="photos">
 <br>The Altair was marketed as "the first desktop computer kit", and it became a hit with tech hobbyists after being featured in the 1975 edition of <i>Popular Electronics</i>. I kind of wanted one off of eBay for a while but I'm not sure what I would do with it after I assemble it...
-<hr>
+<br><br>
 Jack Kilby's notebook
 <br><img src="/images/for-posts/chm/kilby_notebook.png" class="photos">
 <br>Even if it's just a replica, I still found this very cool because it made me feel a little more connected to this brilliant engineer whose contributions I've only read about.
-<hr>
+<br><br>
 All in all, the Computer History Museum is easily one of my most favorite museums, and I'd love to go see it again some day. I'd highly recommend it to anyone, because I think most people would be intrigued to learn just how early the predecessors to what we now consider cutting-edge technology were developed. If you're ever around Northern California, don't miss out on the Computer History Museum!

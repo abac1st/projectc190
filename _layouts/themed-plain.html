@@ -1,0 +1,45 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/images/favicon.png">
+    <title>project c190</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <style>
+        body {
+            background-color: #f1e4bb;
+            font-size:16px;
+            font-family: "DejaVu Sans Mono", "dejaVuSansMono";
+        }
+        @font-face {
+            font-family: "dejaVuSansMono";
+            src: url("/font/DejaVuSansMono.woff");
+        }
+        #material {
+            width: 750px;
+        }
+        a {
+            color:#7f9145;
+        }
+        hr.dotted {
+            border: 1px dashed;
+        }
+        .emote {
+            vertical-align:middle;
+            width:18px;
+        }
+        img {
+            max-width: 100%;
+        }
+        @media (max-width: 750px) {
+            #material {
+                width:100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="material">
+        {{ content }}
+    </div>
+</body>

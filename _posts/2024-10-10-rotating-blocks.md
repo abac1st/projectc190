@@ -1,8 +1,7 @@
 ---
-layout: project-post
+layout: post
 title: Spotting patterns and rotating blocks
-categories: projects
-permalink: /projects/mips-tetris/rotating-blocks
+permalink: /articles/mips-tetris/rotating-blocks
 ---
 <style>
     .emote {
@@ -12,7 +11,7 @@ permalink: /projects/mips-tetris/rotating-blocks
 </style>
 <i>It's dangerous to go alone!</i>
 
-Before you read, here is <a href="https://github.com/wangzi190/mips_tetris/commit/3ebc842c2c48d6134f6f9968edc3c174c6d050be" target="_blank">my code at this point of the project</a> and <a href="/images/for-posts/tetronimoes.jpg" target="_blank">a picture of all the Tetris blocks with labels</a> for your reference.
+Before you read, here is <a href="https://github.com/abac1st/mips_tetris/commit/3ebc842c2c48d6134f6f9968edc3c174c6d050be" target="_blank">my code at this point of the project</a> and <a href="/images/for-posts/tetronimoes.jpg" target="_blank">a picture of all the Tetris blocks with labels</a> for your reference.
 <hr>
 <b>Preliminary Draw Function</b>
 

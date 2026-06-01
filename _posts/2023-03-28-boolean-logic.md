@@ -1,12 +1,11 @@
 ---
-layout: project-post
+layout: post
 title: Nand2Tetris - 01 | Boolean Logic
-categories: projects
-permalink: /projects/nand2tetris/boolean-logic
+permalink: /articles/nand2tetris/boolean-logic
 ---
 Building a set of elementary logic gates and their bitwise counterparts.
 <br><br>
-<a href="https://www.nand2tetris.org/project01" target="_blank">Project specifications</a> | <a href="https://github.com/wangzi190/nand2tetris/tree/master/01" target="_blank">My work</a>
+<a href="https://www.nand2tetris.org/project01" target="_blank">Project specifications</a> | <a href="https://github.com/abac1st/nand2tetris/tree/master/01" target="_blank">My work</a>
 <br><br><b>Concepts</b>
 <br><br>
 All boolean functions can be represented by "listing" every combination of inputs that result in an output of 1, like so:

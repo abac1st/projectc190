@@ -1,8 +1,7 @@
 ---
-layout: project-post
+layout: post
 title: "Nand2Tetris - Follow-up: Simplifying Circuits"
-categories: projects
-permalink: /projects/nand2tetris/simplifying-circuits
+permalink: /articles/nand2tetris/simplifying-circuits
 ---
 This is a follow-up of the "Simplifying Circuits" inquiry from "<a href="/projects/nand2tetris/boolean-logic.html">01 | Boolean Logic</a>".
 <br><br>
@@ -11,4 +10,4 @@ So, I was a little confused by the posts I'd read, which implied that a truth ta
 <br><br>(I'd read in a forum that Xor is most minimally built in 4 Nand gates, which is why I knew to notate that Xor == 4 Nands before having actually simplified it myself.)
 <br><br>As for the other two chips that needed simplification, Xor and Mux, I found that an algebraic approach was more suitable than a graphical one. After reading the Boolean algebra chapter of <a href="https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf" target="_blank"><i><u>T</u>he Art of Assembly Language</i></a>, and playing around with the canonical forms of Xor and Mux, I figured out how to reduce the chips to a minimal number of Nand gates.
 <br><br><a href="/images/for-posts/xor_breakdown.png" target="_blank"><img src="/images/for-posts/xor_breakdown.png" width="300px"></a> <a href="/images/for-posts/mux_breakdown.png" target="_blank"><img src="/images/for-posts/mux_breakdown.png" width="300px"></a>
-<br><br>Now, I have all the fundamental chips from Project 01 (And, Dmux, Mux, Not, Or, and Xor) built using the simplest possible configurations of Nand gates. If you like, you can view my code on <a href="https://github.com/wangzi190/nand2tetris/tree/master/01" target="_blank"><u>G</u>ithub</a>.
+<br><br>Now, I have all the fundamental chips from Project 01 (And, Dmux, Mux, Not, Or, and Xor) built using the simplest possible configurations of Nand gates. If you like, you can view my code on <a href="https://github.com/abac1st/nand2tetris/tree/master/01" target="_blank"><u>G</u>ithub</a>.

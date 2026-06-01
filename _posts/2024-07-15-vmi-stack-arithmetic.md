@@ -1,12 +1,11 @@
 ---
-layout: project-post
+layout: post
 title: "Nand2Tetris - 07 | VM I: Stack Arithmetic"
-categories: projects
-permalink: /projects/nand2tetris/stack-arithmetic
+permalink: /articles/nand2tetris/stack-arithmetic
 ---
 Writing a program that translates the arithmetic and memory access instructions of an intermediate, stack-based VM language into Hack assembly. This will later become the backend tier of a compiler for the high-level language Jack.
 <br><br>
-<a href="https://www.nand2tetris.org/project07" target="_blank">Project specifications</a> | <a href="https://github.com/wangzi190/nand2tetris/tree/master/07" target="_blank">My work</a>
+<a href="https://www.nand2tetris.org/project07" target="_blank">Project specifications</a> | <a href="https://github.com/abac1st/nand2tetris/tree/master/07" target="_blank">My work</a>
 <br><br><b>Concepts</b>
 <br><br>Computer programs written in high-level language must be compiled into the machine code of a target hardware plaform before they can be run on said platform. For the sake of modularity, some compilers perform the compilation process in two distinct parts—first, it translates high-level language to an intermediate code; then, it translates the intermediate code to machine code.This is lucrative because there then does not need to be a new compiler written for each high-level language and hardware platform pair; instead, languages and hardware can be mixed and matched so long as both are compiled to the same intermediate language.
 <br><br>In the Nand2Tetris course, this intermediate language is referred to as "VM code" because it is carefully specified and complex enough to run on its own virtual machine. This VM code embodies the stack machine model, meaning its working memory is a LIFO (last in, first out) data structure called the <i>stack</i>. Accordingly, the VM language includes <i>push</i> (put [some value] onto the stack) and <i>pop</i> (remove the stack's topmost value, and store it at [some value]) memory access commands, as well as branching, subroutine calling, and arithmetic and logical operations. Here, I implement the arithmetic, logical, and memory access instructions.

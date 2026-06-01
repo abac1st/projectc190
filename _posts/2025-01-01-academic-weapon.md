@@ -1,16 +1,18 @@
 ---
-layout: main/layout
+layout: undated-post
+title: "How I Study as an Academic Weapon"
+permalink: /articles/how-i-study
 ---
-<span id="top">How I Study as an Academic Weapon</span>
-<ul>
-    <a href="#1"><li>General Advice</li></a>
-    <a href="#2"><li>My A+ Exam Study Method</li></a>
-    <a href="#3"><li>My "I Don't Know" Exam Study Method</li></a>
-    <a href="#4"><li>Concluding Note</li></a>
-    <a href="#5"><li>Recommended Study Music</li></a>
-</ul>
+Note: This article is from early 2025, but I never marked it with an exact date.
+<br>Also, it's more about studying for school and exams than it is about how to learn in general, which I believe do not necessarily overlap.
 <hr>
-<span id="1">General Advice</span> (<a href="#top" style="color:#7b8a48"><u>B</u>ack to top</a>)
+<!--<a href="#1">General Advice</a>
+<br><a href="#2">My A+ Exam Study Method</a>
+<br><a href="#3">My "I Don't Know" Exam Study Method</a>
+<br><a href="#4">Concluding Note</a>
+<br><a href="#5">Recommended Study Music</a>
+<hr>-->
+<p><span id="1"><b>General Advice</b></span>
 <br><br>
 Anything where you do not deliberately force yourself to practice active recall (e.g. reading lecture slides) is not studying and believing otherwise only lulls you into a false sense of security. I am not saying that using passive methods inevitably leads to failure, but from experience it is not helpful if you really want to know what you are doing. For peace of mind, you should believe that passive studying isn't studying at all.
 <br><br>
@@ -24,34 +26,36 @@ Being rested is absolutely critical. Never pull all-nighters for school (or put 
 <br><br>
 Your morale is also especially important. If you are feeling down or simply unfocused, set aside time to do something enjoyable. As long as you are engaged in the activity, even just half an hour can make all the difference. I do this when I'm reluctant to study but need to; I give myself an hour to completely focus on reading, for example, before I have to get to work, and it generally helps me find the motivation to start. This is especially helpful when you know you're not actually going to do the things you're telling yourself you will.
 <br><br>
-In conditions where it might be easy to lose track of time (e.g. studying at home with the curtains closed), set a regular reminder to help you stay on track. I sometimes set my Casio watch to beep hourly, which I find makes me more conscientious with my time than I would be otherwise.
-<hr>
-<span id="2">My A+ Exam Study Method</span> (<a href="#top" style="color:#7b8a48"><u>B</u>ack to top</a>)
-<br>For that perfect score, or at least something not far from it.
+In conditions where it might be easy to lose track of time (e.g. studying at home with the curtains closed), set a regular reminder to help you stay on track. I sometimes set my watch to beep hourly, which I find makes me more conscientious with my time than I would be otherwise.
 <br><br>
+<span id="2"><b>My A+ Exam Study Method</b></span>
+<br><i>For that perfect score, or at least something not far from it.</i>
+<br>
+<br>
 1. Make a list of all the topics that might be tested on the exam. If there are very many, try to consolidate related topics into one, or remove topics you already feel confident about. You can skip this step if you have a mock exam, but I usually do it regardless for clarity.
 <br>2. Simulate the conditions of the exam. Sit upright at a desk in a quiet room and pull up paper-shuffling ASMR or something; do anything you need to do to trick your brain into thinking you are taking the real exam.
 <br>3. Review your list of topics and force yourself to write out everything you can remember about each topic without looking at your notes. If you have questions, write them in a different color on the page so you can address them in step 4. Alternatively, if you have a mock exam, set a timer and complete the mock exam to the best of your ability, also without looking at your notes.
 <br>4. Once you are done, compare what you have written to the relevant class resources (or in the case of the mock exam, the answer key or other students' work). Specifically identify what you struggled with or found confusing, and target that during your next active study session.
 <br>5. Repeat steps 2-4 until you feel ready for the exam.
-<hr>
-<span id="3">My "I Don't Know" Exam Study Method</span> (<a href="#top" style="color:#7b8a48"><u>B</u>ack to top</a>)
-<br>For when you don't understand the material you are going to be tested on soon.
 <br><br>
+<span id="3"><b>My "I Don't Know" Exam Study Method</b></span>
+<br><i>For when you don't understand the material you are going to be tested on soon.</i>
+<br>
+<br>
 1. Stay calm. You're not screwed unless you believe you are. List all of the topics that might be tested on the exam, and split it over the days you have left until exam day. Try to anticipate which topics will take more effort to learn and group them so that the work is split reasonably. Ideally, leave at least 12 hours to one day of buffer time between finishing your study plan and the exam.
 <br>2. Spend time learning the material according to the outline you made, and try to make it as active a process as possible. For example, you could take brief notes on lecture slides while asking yourself what's important and how you could put it in your own words, then you could hide your notes and lecture material and try to think through it out loud. Also, for classes where simply reasoning about the material can help your understanding (e.g. math, rather than history), try approaching a few example problems and taking note of where you get stuck before you start reading class resources. Absolutely anything that gets you engaging with the material, thinking, and making connections works.
 <br>3. Revise your outline when necessary and keep repeating step 2 until you feel ready for the exam. If time allows, try testing your understanding like in the A+ study method for more peace of mind.
 <br><br>
 Note: Giving yourself buffer time is important, especially when quickly taking in lots of unfamiliar information. To do this, you could study for half an hour before bed to put the concepts into your head and then sleep on it. Or study for a few hours and then come back to it after taking a shower or going on a walk. The point is, cramming and leaving yourself no time to sit with the material in your subconscious isn't necessarily helpful. You'll make more connections than you think you will if you give yourself time to process the material without thinking really hard about it.
-<hr>
-<span id="4">Concluding Note</span> (<a href="#top" style="color:#7b8a48"><u>B</u>ack to top</a>)
 <br><br>
-Though these study methods are a good rule of thumb, I don't always follow them exactly. Instead, I'll take into account how I think and feel and anticipate my behaviors to tailor the methods to get the most out of them at different times. For example, maybe I'm feeling very on edge about an exam, and simulating the exam environment will only stress me out to the detriment of the quality of my studying. In that case, I'd probably decide against doing that part of the A+ study method, but follow it otherwise.
+<span id="4"><b>Concluding Note</b></span>
+<br><br>
+Though these study methods are a good rule of thumb, I don't always follow them exactly. Instead, I'll take into account how I think and feel and anticipate my behaviors to tailor the methods to get the most out of them at different times. For example, maybe I'm feeling very on edge about an exam, and simulating the exam environment will only stress me out to the detriment of how well I study. In that case, I'd probably decide against doing that part of the A+ study method, but follow it otherwise.
 <br><br>
 Work smarter not harder, but don't take cheap shortcuts either. I hope you find these study tips and strategies helpful <img src="/images/emotes/nukoNerd2.gif" class="emote">
-<hr>
-<span id="5">Recommended Study Music</span> (<a href="#top" style="color:#7b8a48"><u>B</u>ack to top</a>)
-<br>
+<br><br>
+<span id="5"><b>Recommended Study Music</b></span>
+<br><br>
 As a small bonus, here is what I listen to while I study.
 <br><br>
 <a href="https://youtube.com/playlist?list=PLveg0IEcZWN5iVmMduR9UjLzX_YgCetds&si=D20xQ93koYEWUWgv" target="_blank">Isochronic Tones Tracks</a>
@@ -62,3 +66,4 @@ As a small bonus, here is what I listen to while I study.
 <br>I listen to this to study during finals week.
 <br><br><a href="https://youtu.be/4vIQON2fDWM?si=nM8SHKWggXo81bCh" target="_blank">Library Sounds</a>
 <br>This helps me pretend I'm in the library when I'm not, which helps for concentration.
+</p>

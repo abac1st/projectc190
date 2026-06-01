@@ -1,12 +1,11 @@
 ---
-layout: project-post
+layout: post
 title: Nand2Tetris - 06 | Assembler
-categories: projects
-permalink: /projects/nand2tetris/assembler
+permalink: /articles/nand2tetris/assembler
 ---
 Writing an assembler for the Hack assembly language.
 <br><br>
-<a href="https://www.nand2tetris.org/project06" target="_blank">Project specifications</a> | <a href="https://github.com/wangzi190/nand2tetris/tree/master/06" target="_blank">My work</a>
+<a href="https://www.nand2tetris.org/project06" target="_blank">Project specifications</a> | <a href="https://github.com/abac1st/nand2tetris/tree/master/06" target="_blank">My work</a>
 <br><br><b>Concepts</b>
 <br><br>The circuitry that makes up a digital computer's underlying hardware can only recognize sequences of 1s and 0s, called machine code. Each line of machine code encodes a specific operation, such as "Add the contents of registers 1 and 2, and store the result in register 3", according to the wiring of the hardware, and agreed upon conventions for writing the code. In order to make the computer reasonably usable at this level, computer processors come hand in hand with human-readable ways of notating their respective machine code, called assembly language (e.g. "Add the contents of registers 1 and 2, and store the result in register 3" in MIPS machine code is 0x00221820, whereas in MIPS assembly language it would simply be <i>add $3, $1, $2</i>). Therefore, assembly language instructions must be translated into their binary code equivalents before being loaded into memory for executing. In the past, this meticulous process would have been done by people, but in the modern day, it is done by a computer program called the <i>assembler</i>.
 <br><br><b>Process</b>

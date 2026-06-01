@@ -1,8 +1,7 @@
 ---
-layout: project-post
+layout: post
 title: "Programming and Pro Gaming: Playing SIC-1"
-categories: projects
-permalink: /projects/esolangs/playing-sic-1
+permalink: /articles/playing-sic-1
 ---
 <style>
     .comments {
@@ -59,6 +58,6 @@ As seen in the above example, program self-modification enables "pointers" in th
 
 Why is this helpful? Consider the "Reverse Sequence" challenge: How would you store a sequence <i>of unspecified length</i> in memory, and then output the sequence in reverse, if you couldn't access memory using pointers?
 <br><img src="/images/for-posts/rev_seq.png">
-<br>Without the pointer functionality enabled by program self-modification, you'd essentially be forced to hard-code memory addresses, which would obviously not be reasonable. A hard-coded Subleq program cannot reasonably anticipate sequences of varying lengths, and keep track of where each sequence starts and ends in memory.
+<br>Without the pointer functionality enabled by program self-modification, you'd essentially be forced to hard-code memory addresses, which would obviously not be reasonable. A hard-coded Subleq program cannot handle sequences of varying lengths, and keep track of where each sequence starts and ends in memory.
 <hr>
 Anyways, I've been having lots of fun with SIC-1 and Subleq so far, and I'm considering making a certain spin-off project after I beat the game. Not only that, but I even have other esolang programming games on my wishlist...
